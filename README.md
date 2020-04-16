@@ -2,7 +2,7 @@
 
 ## About
 
-A flutter UI replication project for a travel app based on [this dribbble project](https://cdn.dribbble.com/users/2137652/screenshots/6510521/travel_app__background__4x.png?compress=1&resize=800x600)
+A flutter UI replication project for a travel app based on [this dribbble project](https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience)
 
 ## Technology Stack
 
